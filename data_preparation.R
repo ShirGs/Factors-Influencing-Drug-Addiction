@@ -1,9 +1,3 @@
-################################################################################
-### LOAD THIS R CODE FIRST BEFORE LOADING OTHER FILES ##########################
-### THIS FILE CONTAINS THE INITIAL DATASET #####################################
-### THIS FILE CONTAINS THE TRAINING, VALIDATION, TESTING DATASET ###############
-################################################################################
-
 # Load necessary libraries
 library(readr)
 library(ggplot2)
