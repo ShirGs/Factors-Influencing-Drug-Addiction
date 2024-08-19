@@ -48,7 +48,6 @@ This repository contains the R code and accompanying report for the Data Mining 
 
 - `data/`: Contains the dataset (if permissible to share).
 - `scripts/`: Contains R scripts used for data analysis and modeling.
-- `report/`: Contains the final report in PDF format.
 - `README.md`: This file.
 
 ## How to Use
